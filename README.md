@@ -6,9 +6,9 @@
 
 # Systems & Intelligence
 
-I am a software engineer focused on building high-utility applications and agentic systems. My work bridges the gap between complex backend architectures and refined, user-centric interfaces. Currently, I am specializing in the **Model Context Protocol (MCP)** and developing tools to observe and optimize AI agent reasoning.
+I am a software engineer focused on building high-utility applications and agentic systems. My work bridges the gap between complex backend architectures and refined, user-centric interfaces. Currently, I am specializing in the **Large Language Models** and **Agentic Workflow** and developing tools to observe and optimize AI agent reasoning. I also love working with front end design and other JS based frameworks.
 
-**Core Projects:** **Agent Autopsy** • **MimiClaw** • **Vlinder Browser** • **Titlimovies**
+**Core Projects:**  **MimiClaw** • **Vlinder Browser** • **Titlimovies**
 
 ---
 
