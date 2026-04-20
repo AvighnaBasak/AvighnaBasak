@@ -1,81 +1,67 @@
 <div align="center">
-  <img src="https://githance.in/api/render?type=header&variant=constellation&v=rect-v4&name=Avighna+Basak&subtitle=About+Me&theme=midnight" alt="Custom header" />
+  <img src="https://githance.in/api/render?type=header&variant=constellation&v=rect-v4&name=Avighna+Basak&subtitle=Software+Engineer+%7C+AI+Agent+Systems&theme=midnight" alt="Header" width="100%" />
 </div>
 
+<div align="center">
 
-<p>Hi im Avighna :)</p><p><br>I'm a full-stack developer building scalable web applications with TypeScript, Python, and JavaScript. Specializes in modern frontend frameworks and backend systems. Deployed multiple production applications including MimiClaw, titlimovies, and Vlinder(electron based browser).&nbsp;</p><p>I have experience with AI/ML projects and several frameworks.&nbsp;</p>
+# Systems & Intelligence
 
+I am a software engineer focused on building high-utility applications and agentic systems. My work bridges the gap between complex backend architectures and refined, user-centric interfaces. Currently, I am specializing in the **Model Context Protocol (MCP)** and developing tools to observe and optimize AI agent reasoning.
 
-<p align="center">
-  <img src="https://githance.in/api/render?type=decor&variant=spark-line&v=rect-v4&pc=%2353D0FF&sc=%231A40FF&ac=%23A725C1&t=8&align=center&span=98" alt="Spark Line" />
-</p>
+**Core Projects:** **Agent Autopsy** • **MimiClaw** • **Vlinder Browser** • **Titlimovies**
 
+---
 
-## Tech Stack
+### Tech Stack
 
-### Languages:
+#### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py" alt="Languages" />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
+#### Libraries & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,django,fastapi,vite,pytorch" alt="Frameworks" />
+</div>
 
-### Libraries & Frameworks:
+#### Infrastructure & Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,mysql,mongodb,redis,aws,vercel,git" alt="Infrastructure" />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
+---
 
-### Tools & Platforms:
+### Analysis & Contributions
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
+<img src="https://githance.in/api/render?type=contribution-heatmap&variant=sunset&v=rect-v4&user=avighnabasak&range=yearly" alt="Contribution graph" width="100%" />
 
-### Databases:
+<br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvighnaBasak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvighnaBasak&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Languages" height="180" />
+</div>
 
+---
 
-## Connect With Me
+### Network
 
-<p align="center">
-  <a href="https://github.com/AvighnaBasak"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="34" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/avighna-basak-8a0405371/"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/autizaavi"><img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23E4405F" alt="Instagram" width="34" height="34" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/AvighnaBasak">
+    <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" alt="GitHub" width="28" height="28" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/avighna-basak-8a0405371/">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23FFFFFF" alt="LinkedIn" width="28" height="28" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/autizaavi">
+    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23FFFFFF" alt="Instagram" width="28" height="28" />
+  </a>
+</div>
 
+<br />
 
-<p align="center">
-  <img src="https://githance.in/api/render?type=footer&banner_id=banner-3&w=1600&h=240" alt="Footer banner 03" width="800" />
-</p>
+<img src="https://githance.in/api/render?type=footer&banner_id=banner-3&w=1600&h=240" alt="Footer" width="100%" />
 
-<p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=sunset&v=rect-v4&user=avighnabasak&range=yearly" alt="Contribution graph" />
-</p>
+</div>
